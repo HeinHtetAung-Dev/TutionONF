@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace TutionONF.Console.Features.Users;
 
-namespace TutionONF.Console.Features.Users
+public class BL_Users
 {
-    internal class BL_Users
-    {
-    }
 }
